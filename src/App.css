@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap');
+
 * {
   box-sizing: border-box;
   margin: 0; 
   padding: 0; 
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Open Sans', sans-serif;
   background-color: #1a1a1c;
   color: #fff;
 }
@@ -34,7 +36,7 @@
   height: 50px;
   border-radius: 4px;
   border: none;
-  background-image: linear-gradient( -225deg, #ac32e4 0%, #7918f2 48%, #4801ff 100%);
+  background-image: linear-gradient( -225deg, #8f8f91 0%, #59597c 48%, #838bff 100%);
 }
 
 .coin-input::placeholder {
